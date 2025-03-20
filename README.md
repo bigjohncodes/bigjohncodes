@@ -22,7 +22,7 @@ export const environment = {
             databases: ["postgres", "mysql", "sqlite", "mongodb"]
         },
         mobile: ["react native", "flutter"],
-        devops: ["aws", "nginx", "gcp", "selfhost", "digitalocean", "github actions", "webpack"],
+        devops: ["aws", "docker", "nginx", "gcp", "selfhost", "digitalocean", "github actions", "webpack"],
         misc: ["redis"]
     },
     currentOS: "Ubuntu",
