@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi, My Name Is John Agboola (bigjohncodes)!
+-----------
+I'm a software developer that specializes in web, mobile and desktop application development.
 
-<!--
-**bigjohncodes/bigjohncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+// environment.ts
+export const environment = {
+    production: true,
+    name: "John Agboola",
+    job: "software developer",
+    interests: ["web development", "pen testing", "mobile development", "networking", "backend development", "mobile and desktop development"],
+    technologies: {
+        languages: ["Python", "JavaScript", "PHP", "Typescript", "Dart", "GO"],
+        runTimes: ["nodejs", "deno" ],
+        frontend: {
+            js: ["typescript", "javascript", "jquery"],
+            css: ["bootstrap", "tailwind" ],
+            frameworks: ["react", "next", "angular", "vue"]
+        },
+        backend: {
+            frameworks: ["django", "express", "laravel"],
+            databases: ["postgres", "mysql", "sqlite", "mongodb"]
+        },
+        mobile: ["react native", "flutter"],
+        devops: ["aws", "nginx", "gcp", "selfhost", "digitalocean", "github actions", "webpack"],
+        misc: ["redis"]
+    },
+    currentOS: "Ubuntu",
+    social: {
+        "website": "",
+        "github": "https://github.com/bigjohncodes/",
+        "keybase": "https://keybase.io/stautonico",
+        "email": "bigjohncodes@gmail.com"
+    }
+};
+```
 
-Here are some ideas to get you started:
+![Bigjohncodes GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigjohncodes&show_icons=true&theme=tokyonight&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigjohncodes)](https://github.com/anuraghazra/github-readme-stats)
