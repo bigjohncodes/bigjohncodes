@@ -29,7 +29,6 @@ export const environment = {
     social: {
         "website": "",
         "github": "https://github.com/bigjohncodes/",
-        "keybase": "https://keybase.io/stautonico",
         "email": "bigjohncodes@gmail.com"
     }
 };
