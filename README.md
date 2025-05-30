@@ -10,7 +10,7 @@ export const environment = {
     job: "software developer",
     interests: ["web development", "pen testing", "mobile development", "networking", "backend development", "mobile and desktop development"],
     technologies: {
-        languages: ["Python", "JavaScript", "PHP", "Typescript", "Dart", "GO"],
+        languages: ["Python", "JavaScript/Typescript", "PHP", "Java", "Dart", "GO", ".Net Core" ],
         runTimes: ["nodejs", "deno" ],
         frontend: {
             js: ["typescript", "javascript", "jquery"],
@@ -18,7 +18,7 @@ export const environment = {
             frameworks: ["react", "next", "angular", "vue"]
         },
         backend: {
-            frameworks: ["django", "express", "laravel"],
+            frameworks: ["django", "express", "laravel", "Spring" ],
             databases: ["postgres", "mysql", "sqlite", "mongodb"]
         },
         mobile: ["react native", "flutter"],
