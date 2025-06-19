@@ -64,9 +64,9 @@ A Spotify-like Music streaming application built with React.js and Tailwind.css
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigjohncodes&theme=github-dark-blue" alt="GitHub Streak Stats" />
-</div>
+</p>
 
 ## 🌱 Currently Learning
 
