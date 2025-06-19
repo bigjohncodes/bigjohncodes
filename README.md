@@ -1,6 +1,18 @@
-### Hi, My Name Is John Agboola (bigjohncodes)!!
------------
-I'm a software developer that specializes in web, mobile and desktop application development.
+# Hi there, I'm John Agboola 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Microservices+Enthusiast;Distributed+Systems+Enthusiast;Software+Architecture;Clean+Architecture;Java+Developer;Python+Developer;Javascript+Developer;PHP+Developer" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+I am a passionate and results-driven software developer with expertise in building web, mobile, and desktop applications. My core focus lies in architecting and developing scalable, high-performance systems that solve real-world problems — particularly within distributed systems and modern software architectures.
+
+Driven by curiosity and continuous learning, I explore and prototype innovative solutions through hands-on research. The architectures and projects featured in my repositories are the direct outcome of my independent investigations and technical experimentation.
+
+I specialize in crafting robust backend systems using technologies such as Java, Python, JavaScript, and PHP. I leverage event-driven architectures and microservices patterns to deliver resilient, extensible, and enterprise-grade applications capable of adapting to complex, real-time business environments.
+
+
+
 
 ```typescript
 // environment.ts
