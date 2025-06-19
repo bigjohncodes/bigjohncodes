@@ -21,6 +21,40 @@ I specialize in crafting robust backend systems using technologies such as Java,
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bigjohncodes&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views Counter"/>
 </div>
+<div align="center">
+   
+```typescript
+// environment.ts
+export const environment = {
+    production: true,
+    name: "John Agboola",
+    job: "software developer",
+    interests: ["web development", "pen testing", "mobile development", "networking", "backend development", "mobile and desktop development"],
+    technologies: {
+        languages: ["Python", "JavaScript/Typescript", "PHP", "Java", "Dart", "GO", ".Net Core" ],
+        runTimes: ["nodejs", "deno" ],
+        frontend: {
+            js: ["typescript", "javascript", "jquery"],
+            css: ["bootstrap", "tailwind" ],
+            frameworks: ["react", "next", "angular", "vue"]
+        },
+        backend: {
+            frameworks: ["django", "express", "laravel", "Spring" ],
+            databases: ["postgres", "mysql", "sqlite", "mongodb"]
+        },
+        mobile: ["react native", "flutter"],
+        devops: ["aws", "docker", "nginx", "gcp", "selfhost", "digitalocean", "github actions", "webpack"],
+        misc: ["redis"]
+    },
+    currentOS: "Ubuntu",
+    social: {
+        "website": "",
+        "github": "https://github.com/bigjohncodes/",
+        "email": "bigjohncodes@gmail.com"
+    }
+};
+```
+</div>
 
 ## 💼 Skills & Technologies
 
@@ -90,36 +124,3 @@ A Spotify-like Music streaming application built with React.js and Tailwind.css
   </a>
 
 </div>
-
-
-```typescript
-// environment.ts
-export const environment = {
-    production: true,
-    name: "John Agboola",
-    job: "software developer",
-    interests: ["web development", "pen testing", "mobile development", "networking", "backend development", "mobile and desktop development"],
-    technologies: {
-        languages: ["Python", "JavaScript/Typescript", "PHP", "Java", "Dart", "GO", ".Net Core" ],
-        runTimes: ["nodejs", "deno" ],
-        frontend: {
-            js: ["typescript", "javascript", "jquery"],
-            css: ["bootstrap", "tailwind" ],
-            frameworks: ["react", "next", "angular", "vue"]
-        },
-        backend: {
-            frameworks: ["django", "express", "laravel", "Spring" ],
-            databases: ["postgres", "mysql", "sqlite", "mongodb"]
-        },
-        mobile: ["react native", "flutter"],
-        devops: ["aws", "docker", "nginx", "gcp", "selfhost", "digitalocean", "github actions", "webpack"],
-        misc: ["redis"]
-    },
-    currentOS: "Ubuntu",
-    social: {
-        "website": "",
-        "github": "https://github.com/bigjohncodes/",
-        "email": "bigjohncodes@gmail.com"
-    }
-};
-```
