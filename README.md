@@ -15,11 +15,11 @@ I specialize in crafting robust backend systems using technologies such as Java,
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aabdeab&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabdeab&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bigjohncodes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigjohncodes&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aabdeab&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=bigjohncodes&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views Counter"/>
 </div>
 
 ## 💼 Skills & Technologies
@@ -66,7 +66,7 @@ A Spotify-like Music streaming application built with React.js and Tailwind.css
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabdeab&theme=github-dark-blue" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigjohncodes&theme=github-dark-blue" alt="GitHub Streak Stats" />
 </div>
 
 ## 🌱 Currently Learning
@@ -123,10 +123,3 @@ export const environment = {
     }
 };
 ```
-
-![Bigjohncodes GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigjohncodes&show_icons=true&theme=tokyonight&count_private=true)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigjohncodes&layout=donut&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
