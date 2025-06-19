@@ -9,9 +9,7 @@ I am a passionate and results-driven software developer with expertise in buildi
 
 Driven by curiosity and continuous learning, I explore and prototype innovative solutions through hands-on research. The architectures and projects featured in my repositories are the direct outcome of my independent investigations and technical experimentation.
 
-I specialize in crafting robust backend systems using technologies such as Java, Python, JavaScript, and PHP. I leverage event-driven architectures and microservices patterns to deliver resilient, extensible, and enterprise-grade applications capable of adapting to complex, real-time business environments.
-
-
+I specialize in crafting robust backend systems using technologies such as Java, Python, JavaScript, and PHP. I leverage event-driven architectures and microservices patterns to deliver resilient, extensible, and enterprise-grade applications capable of adapting to complex, real-time business environments
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -21,37 +19,6 @@ I specialize in crafting robust backend systems using technologies such as Java,
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bigjohncodes&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views Counter"/>
 </div>
-```typescript
-// environment.ts
-export const environment = {
-    production: true,
-    name: "John Agboola",
-    job: "software developer",
-    interests: ["web development", "pen testing", "mobile development", "networking", "backend development", "mobile and desktop development"],
-    technologies: {
-        languages: ["Python", "JavaScript/Typescript", "PHP", "Java", "Dart", "GO", ".Net Core" ],
-        runTimes: ["nodejs", "deno" ],
-        frontend: {
-            js: ["typescript", "javascript", "jquery"],
-            css: ["bootstrap", "tailwind" ],
-            frameworks: ["react", "next", "angular", "vue"]
-        },
-        backend: {
-            frameworks: ["django", "express", "laravel", "Spring" ],
-            databases: ["postgres", "mysql", "sqlite", "mongodb"]
-        },
-        mobile: ["react native", "flutter"],
-        devops: ["aws", "docker", "nginx", "gcp", "selfhost", "digitalocean", "github actions", "webpack"],
-        misc: ["redis"]
-    },
-    currentOS: "Ubuntu",
-    social: {
-        "website": "",
-        "github": "https://github.com/bigjohncodes/",
-        "email": "bigjohncodes@gmail.com"
-    }
-};
-```
 
 ## 💼 Skills & Technologies
 
@@ -61,6 +28,7 @@ export const environment = {
   <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
