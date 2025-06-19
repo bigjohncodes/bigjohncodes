@@ -29,6 +29,7 @@ I specialize in crafting robust backend systems using technologies such as Java,
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-DC382D?style=for-the-badge&logo=Laravel&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
