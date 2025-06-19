@@ -21,8 +21,6 @@ I specialize in crafting robust backend systems using technologies such as Java,
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bigjohncodes&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views Counter"/>
 </div>
-<div align="center">
-   
 ```typescript
 // environment.ts
 export const environment = {
@@ -54,7 +52,6 @@ export const environment = {
     }
 };
 ```
-</div>
 
 ## 💼 Skills & Technologies
 
