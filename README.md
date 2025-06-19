@@ -93,5 +93,9 @@ A Spotify-like Music streaming application built with React.js and Tailwind.css
   <a href="mailto:johnagboola73@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </div>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+</div>
+
