@@ -82,10 +82,10 @@ A Spotify-like Music streaming application built with React.js and Tailwind.css
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdelkarim-aabdane-072b462a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/john-agboola-81a5a52a9/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aabdaneabdelkrim@gmail.com" target="_blank">
+  <a href="mailto:johnagboola73@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
