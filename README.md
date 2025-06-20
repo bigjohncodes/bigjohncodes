@@ -14,7 +14,7 @@ I specialize in crafting robust backend systems using technologies such as Java,
 <!-- GitHub Stats -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bigjohncodes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigjohncodes&layout=compact&langs_count=10&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigjohncodes&layout=compact&langs_count=12&theme=github_dark"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bigjohncodes&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views Counter"/>
