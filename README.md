@@ -9,7 +9,7 @@ I am a passionate and results-driven software developer with expertise in buildi
 
 Driven by curiosity and continuous learning, I explore and prototype innovative solutions through hands-on research. The architectures and projects featured in my repositories are the direct outcome of my independent investigations and technical experimentation.
 
-I specialize in crafting robust backend systems using technologies such as Java, Python, JavaScript, and PHP. I leverage event-driven architectures and microservices patterns to deliver resilient, extensible, and enterprise-grade applications capable of adapting to complex, real-time business environments
+I specialize in crafting robust backend systems using technologies such as Java, C++, C#, Python, JavaScript, and PHP. I leverage event-driven architectures and microservices patterns to deliver resilient, extensible, and enterprise-grade applications capable of adapting to complex, real-time business environments
 
 <!-- GitHub Stats -->
 <div align="center">
